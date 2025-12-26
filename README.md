@@ -42,7 +42,7 @@ Addn.:   2 days (for misc.)
 
 ## Contributors
 
-# Ganesh T Nagabhushan, ASME
+# Ganesh T Nagabhushan
 Final Year, B.Tech-Mechanical Engineering
 FET-JAIN (Deemed to be) University, Bengaluru, India
 ganeshtnbhushan@gmail.com
