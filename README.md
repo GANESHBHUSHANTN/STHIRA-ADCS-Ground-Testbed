@@ -41,14 +41,18 @@ Addn.:   2 days (for misc.)
 (if needed)
 
 ## Contributors
-Ganesh T Nagabhushan, ASME
+
+# Ganesh T Nagabhushan, ASME
 Final Year, B.Tech-Mechanical Engineering
 FET-JAIN (Deemed to be) University, Bengaluru, India
 ganeshtnbhushan@gmail.com
 
-Pushkal G
+# Pushkal G
 First Year, B.Tech-E&CE
 FET-JAIN (Deemed to be) University, Bengaluru, India
 pushkalganiga@gmail.com
+
+
+
 - Mechanical Engineering (ADCS, Dynamics, CAD)
 - Electronics & Communication Engineering (IMU, MCU, RF)
